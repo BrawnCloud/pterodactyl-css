@@ -1,15 +1,15 @@
 .LoginFormContainer___StyledP-sc-cyh04c-7.llNNfK {
-  display: none;
+  display: none !important;
 }
 
 .LoginFormContainer___StyledH-sc-cyh04c-1.hpqfJy::before {
-  content: "Welcome to your panel!";
-  display: block; 
+  content: "Welcome to your panel!" !important;
+  display: block !important; 
 }
 
 .LoginFormContainer___StyledH-sc-cyh04c-1.hpqfJy::after {
-  content: "Welcome to your panel!";
-  display: block; 
+  content: "Welcome to your panel!" !important;
+  display: block !important; 
 }
 
 .LoginContainer___StyledLink-sc-qtrnpk-4.cjgCjC {
@@ -17,5 +17,5 @@
 }
 
 .PageContentBlock___StyledP-sc-kbxq2g-3.dcHyfd {
-  display: none;
+  display: none !important;
 }
