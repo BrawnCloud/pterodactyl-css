@@ -7,6 +7,11 @@
   display: block; 
 }
 
+.LoginFormContainer___StyledH-sc-cyh04c-1.hpqfJy::after {
+  content: "Welcome to your panel!";
+  display: block; 
+}
+
 .LoginContainer___StyledLink-sc-qtrnpk-4.cjgCjC {
   color: #fff !important;
 }
