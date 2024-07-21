@@ -1,21 +1,16 @@
 .LoginFormContainer___StyledP-sc-cyh04c-7.llNNfK {
-  display: none !important;
+  display: none;
 }
 
 .LoginFormContainer___StyledH-sc-cyh04c-1.hpqfJy::before {
   content: "Welcome to your panel!" !important;
-  display: block !important; 
-}
-
-.LoginFormContainer___StyledH-sc-cyh04c-1.hpqfJy::after {
-  content: "Welcome to your panel!" !important;
-  display: block !important; 
+  display: block; 
 }
 
 .LoginContainer___StyledLink-sc-qtrnpk-4.cjgCjC {
-  color: #fff !important;
+  color: #fff;
 }
 
 .PageContentBlock___StyledP-sc-kbxq2g-3.dcHyfd {
-  display: none !important;
+  display: none;
 }
